@@ -28,7 +28,7 @@
 RootModule = 'UMN-Common.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.14'
+ModuleVersion = '1.0.15'
 
 # ID used to uniquely identify this module
 GUID = '4a7ba823-deb0-4b4d-9f81-396b20c8784b'
@@ -115,7 +115,7 @@ PrivateData = @{
         # LicenseUri = ''
 
         # A URL to the main website for this project.
-        ProjectUri = 'https://github.com/umn-microsoft-automation/UMN-Common'
+        ProjectUri = 'https://github.com/umn-devex-community/UMN-Common'
 
         # A URL to an icon representing this module.
         # IconUri = ''
